@@ -1,0 +1,4379 @@
+{
+  "products": [
+    {
+      "id": "WGlhb21pIFNvdW5kIE1heCAyWA",
+      "title": "Xiaomi Sound Max 2X",
+      "image": "https://picsum.photos/id/125/200",
+      "price": 597,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTWF4IA",
+      "title": "BQ Phone Max ",
+      "image": "https://picsum.photos/id/174/200",
+      "price": 651,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTWF4IDJY",
+      "title": "Lenovo Book Max 2X",
+      "image": "https://picsum.photos/id/281/200",
+      "price": 907,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIE1heCA",
+      "title": "Xiaomi Sound Max ",
+      "image": "https://picsum.photos/id/223/200",
+      "price": 217,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIE1pbmkg",
+      "title": "Xiaomi Sound Mini ",
+      "image": "https://picsum.photos/id/23/200",
+      "price": 896,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIE1heCA",
+      "title": "Xiaomi Phone Max ",
+      "image": "https://picsum.photos/id/85/200",
+      "price": 425,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIFBybyAyWA",
+      "title": "Xiaomi Phone Pro 2X",
+      "image": "https://picsum.photos/id/63/200",
+      "price": 340,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rICBIRA",
+      "title": "Samsung Book  HD",
+      "image": "https://picsum.photos/id/72/200",
+      "price": 400,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIExpdGUg",
+      "title": "Xiaomi Watch Lite ",
+      "image": "https://picsum.photos/id/73/200",
+      "price": 228,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBNYXggSEQ",
+      "title": "Samsung Watch Max HD",
+      "image": "https://picsum.photos/id/76/200",
+      "price": 162,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBQcm8gSEQ",
+      "title": "Samsung Watch Pro HD",
+      "image": "https://picsum.photos/id/261/200",
+      "price": 400,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBNYXggMlg",
+      "title": "Samsung Sound Max 2X",
+      "image": "https://picsum.photos/id/152/200",
+      "price": 107,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBNYXgg",
+      "title": "Xiaomi Tablet Max ",
+      "image": "https://picsum.photos/id/144/200",
+      "price": 438,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIE1heCA1Rw",
+      "title": "Xiaomi Watch Max 5G",
+      "image": "https://picsum.photos/id/148/200",
+      "price": 19,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTGl0ZSA1Rw",
+      "title": "Xiaomi Book Lite 5G",
+      "image": "https://picsum.photos/id/112/200",
+      "price": 110,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIFBybyA",
+      "title": "Xiaomi Phone Pro ",
+      "image": "https://picsum.photos/id/267/200",
+      "price": 549,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBNYXggMg",
+      "title": "Samsung Sound Max 2",
+      "image": "https://picsum.photos/id/180/200",
+      "price": 310,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCAgNUc",
+      "title": "Samsung Watch  5G",
+      "image": "https://picsum.photos/id/110/200",
+      "price": 5,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgIA",
+      "title": "Samsung Tablet  ",
+      "image": "https://picsum.photos/id/208/200",
+      "price": 644,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIE1heCAy",
+      "title": "Xiaomi Phone Max 2",
+      "image": "https://picsum.photos/id/137/200",
+      "price": 998,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIE1heCAyWA",
+      "title": "Xiaomi Phone Max 2X",
+      "image": "https://picsum.photos/id/259/200",
+      "price": 424,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCAgNUc",
+      "title": "Xiaomi Tablet  5G",
+      "image": "https://picsum.photos/id/105/200",
+      "price": 509,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIE1pbmkg",
+      "title": "Xiaomi Watch Mini ",
+      "image": "https://picsum.photos/id/45/200",
+      "price": 256,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIExpdGUg",
+      "title": "Xiaomi Phone Lite ",
+      "image": "https://picsum.photos/id/287/200",
+      "price": 237,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTWF4IA",
+      "title": "Xiaomi Book Max ",
+      "image": "https://picsum.photos/id/85/200",
+      "price": 209,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIFBybyA1Rw",
+      "title": "Xiaomi Sound Pro 5G",
+      "image": "https://picsum.photos/id/175/200",
+      "price": 523,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBNaW5pIDVH",
+      "title": "Samsung Phone Mini 5G",
+      "image": "https://picsum.photos/id/263/200",
+      "price": 292,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIE1heCAy",
+      "title": "Samsung Book Max 2",
+      "image": "https://picsum.photos/id/207/200",
+      "price": 881,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBNYXggNUc",
+      "title": "Samsung Watch Max 5G",
+      "image": "https://picsum.photos/id/220/200",
+      "price": 446,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCAgMg",
+      "title": "Samsung Sound  2",
+      "image": "https://picsum.photos/id/276/200",
+      "price": 235,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIE1pbmkgSEQ",
+      "title": "Xiaomi Phone Mini HD",
+      "image": "https://picsum.photos/id/193/200",
+      "price": 189,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBQcm8gSEQ",
+      "title": "Samsung Phone Pro HD",
+      "image": "https://picsum.photos/id/48/200",
+      "price": 535,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIExpdGUgSEQ",
+      "title": "Samsung Book Lite HD",
+      "image": "https://picsum.photos/id/105/200",
+      "price": 5,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBNYXggSEQ",
+      "title": "Samsung Phone Max HD",
+      "image": "https://picsum.photos/id/238/200",
+      "price": 949,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTGl0ZSBIRA",
+      "title": "Xiaomi Book Lite HD",
+      "image": "https://picsum.photos/id/133/200",
+      "price": 861,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgIEhE",
+      "title": "Samsung Tablet  HD",
+      "image": "https://picsum.photos/id/69/200",
+      "price": 386,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBQcm8gMlg",
+      "title": "Samsung Watch Pro 2X",
+      "image": "https://picsum.photos/id/104/200",
+      "price": 86,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTWluaSA1Rw",
+      "title": "Samsung Tablet Mini 5G",
+      "image": "https://picsum.photos/id/43/200",
+      "price": 137,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBMaXRlIDVH",
+      "title": "Xiaomi Tablet Lite 5G",
+      "image": "https://picsum.photos/id/37/200",
+      "price": 682,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTWF4IDI",
+      "title": "Xiaomi Book Max 2",
+      "image": "https://picsum.photos/id/76/200",
+      "price": 292,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIE1pbmkgMlg",
+      "title": "Xiaomi Sound Mini 2X",
+      "image": "https://picsum.photos/id/268/200",
+      "price": 538,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBNYXggMg",
+      "title": "Samsung Watch Max 2",
+      "image": "https://picsum.photos/id/207/200",
+      "price": 694,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBNaW5pIEhE",
+      "title": "Samsung Watch Mini HD",
+      "image": "https://picsum.photos/id/193/200",
+      "price": 594,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIE1pbmkgMg",
+      "title": "Xiaomi Phone Mini 2",
+      "image": "https://picsum.photos/id/187/200",
+      "price": 526,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTGl0ZSA",
+      "title": "Xiaomi Book Lite ",
+      "image": "https://picsum.photos/id/82/200",
+      "price": 760,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIFBybyBIRA",
+      "title": "Samsung Book Pro HD",
+      "image": "https://picsum.photos/id/86/200",
+      "price": 551,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIE1heCBIRA",
+      "title": "Xiaomi Sound Max HD",
+      "image": "https://picsum.photos/id/163/200",
+      "price": 266,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIFBybyAy",
+      "title": "Xiaomi Watch Pro 2",
+      "image": "https://picsum.photos/id/226/200",
+      "price": 549,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgIDJY",
+      "title": "Xiaomi Book  2X",
+      "image": "https://picsum.photos/id/136/200",
+      "price": 118,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBQcm8g",
+      "title": "Samsung Watch Pro ",
+      "image": "https://picsum.photos/id/132/200",
+      "price": 182,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTWluaSA",
+      "title": "Lenovo Book Mini ",
+      "image": "https://picsum.photos/id/20/200",
+      "price": 363,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIE1heCAyWA",
+      "title": "Samsung Book Max 2X",
+      "image": "https://picsum.photos/id/172/200",
+      "price": 206,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIExpdGUg",
+      "title": "Xiaomi Sound Lite ",
+      "image": "https://picsum.photos/id/181/200",
+      "price": 436,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIExpdGUgNUc",
+      "title": "Lenovo Phone Lite 5G",
+      "image": "https://picsum.photos/id/300/200",
+      "price": 61,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIE1pbmkgSEQ",
+      "title": "Samsung Book Mini HD",
+      "image": "https://picsum.photos/id/74/200",
+      "price": 973,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIE1pbmkgNUc",
+      "title": "Lenovo Phone Mini 5G",
+      "image": "https://picsum.photos/id/113/200",
+      "price": 930,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgIA",
+      "title": "Xiaomi Book  ",
+      "image": "https://picsum.photos/id/65/200",
+      "price": 267,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIFBybyAyWA",
+      "title": "Xiaomi Sound Pro 2X",
+      "image": "https://picsum.photos/id/156/200",
+      "price": 875,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBQcm8g",
+      "title": "Samsung Phone Pro ",
+      "image": "https://picsum.photos/id/149/200",
+      "price": 222,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIExpdGUgNUc",
+      "title": "Xiaomi Sound Lite 5G",
+      "image": "https://picsum.photos/id/71/200",
+      "price": 441,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lICBIRA",
+      "title": "Xiaomi Phone  HD",
+      "image": "https://picsum.photos/id/83/200",
+      "price": 10,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kICBIRA",
+      "title": "Xiaomi Sound  HD",
+      "image": "https://picsum.photos/id/176/200",
+      "price": 422,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIE1pbmkgNUc",
+      "title": "Samsung Book Mini 5G",
+      "image": "https://picsum.photos/id/48/200",
+      "price": 587,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTWluaSA1Rw",
+      "title": "Xiaomi Book Mini 5G",
+      "image": "https://picsum.photos/id/26/200",
+      "price": 500,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgUHJvIEhE",
+      "title": "Xiaomi Book Pro HD",
+      "image": "https://picsum.photos/id/267/200",
+      "price": 629,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBMaXRlIDJY",
+      "title": "Samsung Watch Lite 2X",
+      "image": "https://picsum.photos/id/94/200",
+      "price": 183,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgUHJvIDI",
+      "title": "Lenovo Book Pro 2",
+      "image": "https://picsum.photos/id/168/200",
+      "price": 19,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCAg",
+      "title": "Samsung Watch  ",
+      "image": "https://picsum.photos/id/205/200",
+      "price": 263,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgIDI",
+      "title": "Samsung Tablet  2",
+      "image": "https://picsum.photos/id/251/200",
+      "price": 568,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBQcm8gNUc",
+      "title": "Xiaomi Tablet Pro 5G",
+      "image": "https://picsum.photos/id/166/200",
+      "price": 615,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIE1heCAyWA",
+      "title": "Xiaomi Watch Max 2X",
+      "image": "https://picsum.photos/id/60/200",
+      "price": 395,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIE1pbmkgMg",
+      "title": "Xiaomi Watch Mini 2",
+      "image": "https://picsum.photos/id/109/200",
+      "price": 571,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBNYXggMlg",
+      "title": "Samsung Watch Max 2X",
+      "image": "https://picsum.photos/id/146/200",
+      "price": 4,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kICAy",
+      "title": "Xiaomi Sound  2",
+      "image": "https://picsum.photos/id/46/200",
+      "price": 100,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIExpdGUgMg",
+      "title": "Lenovo Watch Lite 2",
+      "image": "https://picsum.photos/id/237/200",
+      "price": 879,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTGl0ZSAyWA",
+      "title": "Lenovo Book Lite 2X",
+      "image": "https://picsum.photos/id/185/200",
+      "price": 284,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTWluaSBIRA",
+      "title": "Lenovo Book Mini HD",
+      "image": "https://picsum.photos/id/16/200",
+      "price": 436,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBNaW5pIDJY",
+      "title": "Samsung Watch Mini 2X",
+      "image": "https://picsum.photos/id/208/200",
+      "price": 419,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBNaW5pIEhE",
+      "title": "Xiaomi Tablet Mini HD",
+      "image": "https://picsum.photos/id/8/200",
+      "price": 302,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTWluaSAy",
+      "title": "Lenovo Book Mini 2",
+      "image": "https://picsum.photos/id/87/200",
+      "price": 814,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBQcm8gNUc",
+      "title": "Samsung Phone Pro 5G",
+      "image": "https://picsum.photos/id/259/200",
+      "price": 759,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTWF4IA",
+      "title": "Samsung Tablet Max ",
+      "image": "https://picsum.photos/id/257/200",
+      "price": 212,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBQcm8gMg",
+      "title": "Samsung Phone Pro 2",
+      "image": "https://picsum.photos/id/167/200",
+      "price": 788,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIExpdGUgMlg",
+      "title": "Xiaomi Watch Lite 2X",
+      "image": "https://picsum.photos/id/78/200",
+      "price": 441,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBMaXRlIEhE",
+      "title": "Samsung Sound Lite HD",
+      "image": "https://picsum.photos/id/158/200",
+      "price": 583,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBQcm8gMg",
+      "title": "Xiaomi Tablet Pro 2",
+      "image": "https://picsum.photos/id/127/200",
+      "price": 44,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoICAy",
+      "title": "Xiaomi Watch  2",
+      "image": "https://picsum.photos/id/187/200",
+      "price": 625,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoICA",
+      "title": "Xiaomi Watch  ",
+      "image": "https://picsum.photos/id/85/200",
+      "price": 153,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kICA1Rw",
+      "title": "Xiaomi Sound  5G",
+      "image": "https://picsum.photos/id/256/200",
+      "price": 974,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIExpdGUg",
+      "title": "Samsung Book Lite ",
+      "image": "https://picsum.photos/id/230/200",
+      "price": 251,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBNYXggSEQ",
+      "title": "Xiaomi Tablet Max HD",
+      "image": "https://picsum.photos/id/224/200",
+      "price": 203,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTGl0ZSAy",
+      "title": "Samsung Tablet Lite 2",
+      "image": "https://picsum.photos/id/59/200",
+      "price": 254,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIExpdGUgSEQ",
+      "title": "Xiaomi Watch Lite HD",
+      "image": "https://picsum.photos/id/145/200",
+      "price": 427,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIFBybyA",
+      "title": "Xiaomi Sound Pro ",
+      "image": "https://picsum.photos/id/231/200",
+      "price": 584,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBQcm8g",
+      "title": "Samsung Sound Pro ",
+      "image": "https://picsum.photos/id/164/200",
+      "price": 577,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTWluaSA",
+      "title": "Xiaomi Book Mini ",
+      "image": "https://picsum.photos/id/190/200",
+      "price": 945,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIE1heCAy",
+      "title": "Xiaomi Sound Max 2",
+      "image": "https://picsum.photos/id/104/200",
+      "price": 243,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lICA1Rw",
+      "title": "Xiaomi Phone  5G",
+      "image": "https://picsum.photos/id/80/200",
+      "price": 321,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBNaW5pIEhE",
+      "title": "Samsung Sound Mini HD",
+      "image": "https://picsum.photos/id/129/200",
+      "price": 448,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIE1heCA",
+      "title": "Xiaomi Watch Max ",
+      "image": "https://picsum.photos/id/156/200",
+      "price": 944,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTWluaSAyWA",
+      "title": "Samsung Tablet Mini 2X",
+      "image": "https://picsum.photos/id/159/200",
+      "price": 189,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBMaXRlIA",
+      "title": "Samsung Watch Lite ",
+      "image": "https://picsum.photos/id/107/200",
+      "price": 978,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBQcm8gMlg",
+      "title": "Samsung Phone Pro 2X",
+      "image": "https://picsum.photos/id/298/200",
+      "price": 506,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBNaW5pIDI",
+      "title": "Samsung Sound Mini 2",
+      "image": "https://picsum.photos/id/258/200",
+      "price": 74,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgUHJvIA",
+      "title": "Lenovo Book Pro ",
+      "image": "https://picsum.photos/id/184/200",
+      "price": 299,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIFBybyAyWA",
+      "title": "Lenovo Watch Pro 2X",
+      "image": "https://picsum.photos/id/108/200",
+      "price": 585,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIExpdGUg",
+      "title": "Lenovo Phone Lite ",
+      "image": "https://picsum.photos/id/56/200",
+      "price": 269,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTGl0ZSAy",
+      "title": "Xiaomi Book Lite 2",
+      "image": "https://picsum.photos/id/226/200",
+      "price": 756,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIE1heCBIRA",
+      "title": "Samsung Book Max HD",
+      "image": "https://picsum.photos/id/127/200",
+      "price": 92,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIE1heCA",
+      "title": "Lenovo Watch Max ",
+      "image": "https://picsum.photos/id/64/200",
+      "price": 196,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCAgMg",
+      "title": "Xiaomi Tablet  2",
+      "image": "https://picsum.photos/id/291/200",
+      "price": 132,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIE1pbmkg",
+      "title": "Samsung Book Mini ",
+      "image": "https://picsum.photos/id/136/200",
+      "price": 778,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBMaXRlIDI",
+      "title": "Samsung Sound Lite 2",
+      "image": "https://picsum.photos/id/104/200",
+      "price": 958,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTWluaSAyWA",
+      "title": "Xiaomi Book Mini 2X",
+      "image": "https://picsum.photos/id/101/200",
+      "price": 12,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIExpdGUgMlg",
+      "title": "Lenovo Watch Lite 2X",
+      "image": "https://picsum.photos/id/2/200",
+      "price": 293,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTWluaSBIRA",
+      "title": "Samsung Tablet Mini HD",
+      "image": "https://picsum.photos/id/109/200",
+      "price": 435,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBQcm8gMg",
+      "title": "Samsung Watch Pro 2",
+      "image": "https://picsum.photos/id/136/200",
+      "price": 685,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIExpdGUgSEQ",
+      "title": "Xiaomi Phone Lite HD",
+      "image": "https://picsum.photos/id/287/200",
+      "price": 362,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBNYXgg",
+      "title": "Samsung Watch Max ",
+      "image": "https://picsum.photos/id/35/200",
+      "price": 389,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIE1pbmkgMlg",
+      "title": "Lenovo Watch Mini 2X",
+      "image": "https://picsum.photos/id/53/200",
+      "price": 857,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBMaXRlIDVH",
+      "title": "Samsung Sound Lite 5G",
+      "image": "https://picsum.photos/id/148/200",
+      "price": 353,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIE1pbmkgSEQ",
+      "title": "Xiaomi Watch Mini HD",
+      "image": "https://picsum.photos/id/295/200",
+      "price": 710,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgUHJvIDI",
+      "title": "Xiaomi Book Pro 2",
+      "image": "https://picsum.photos/id/174/200",
+      "price": 646,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTWluaSA1Rw",
+      "title": "Lenovo Book Mini 5G",
+      "image": "https://picsum.photos/id/125/200",
+      "price": 980,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIE1heCA1Rw",
+      "title": "Xiaomi Sound Max 5G",
+      "image": "https://picsum.photos/id/2/200",
+      "price": 64,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBMaXRlIDJY",
+      "title": "Samsung Sound Lite 2X",
+      "image": "https://picsum.photos/id/32/200",
+      "price": 693,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIE1pbmkgMg",
+      "title": "Xiaomi Sound Mini 2",
+      "image": "https://picsum.photos/id/112/200",
+      "price": 276,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCAgSEQ",
+      "title": "Samsung Watch  HD",
+      "image": "https://picsum.photos/id/52/200",
+      "price": 94,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIE1heCA1Rw",
+      "title": "Samsung Book Max 5G",
+      "image": "https://picsum.photos/id/56/200",
+      "price": 61,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTWF4IEhE",
+      "title": "Samsung Tablet Max HD",
+      "image": "https://picsum.photos/id/277/200",
+      "price": 175,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBMaXRlIDI",
+      "title": "Samsung Watch Lite 2",
+      "image": "https://picsum.photos/id/289/200",
+      "price": 682,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBNaW5pIDVH",
+      "title": "Xiaomi Tablet Mini 5G",
+      "image": "https://picsum.photos/id/291/200",
+      "price": 405,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBQcm8gSEQ",
+      "title": "Samsung Sound Pro HD",
+      "image": "https://picsum.photos/id/29/200",
+      "price": 339,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTGl0ZSAyWA",
+      "title": "Samsung Tablet Lite 2X",
+      "image": "https://picsum.photos/id/27/200",
+      "price": 812,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBNaW5pIDVH",
+      "title": "Samsung Watch Mini 5G",
+      "image": "https://picsum.photos/id/13/200",
+      "price": 278,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTWF4IDI",
+      "title": "Samsung Tablet Max 2",
+      "image": "https://picsum.photos/id/156/200",
+      "price": 503,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIFBybyA1Rw",
+      "title": "Xiaomi Phone Pro 5G",
+      "image": "https://picsum.photos/id/5/200",
+      "price": 579,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCAgSEQ",
+      "title": "Samsung Sound  HD",
+      "image": "https://picsum.photos/id/51/200",
+      "price": 902,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSAgMlg",
+      "title": "Samsung Phone  2X",
+      "image": "https://picsum.photos/id/258/200",
+      "price": 214,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBNaW5pIDJY",
+      "title": "Samsung Sound Mini 2X",
+      "image": "https://picsum.photos/id/143/200",
+      "price": 293,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBMaXRlIEhE",
+      "title": "Samsung Watch Lite HD",
+      "image": "https://picsum.photos/id/271/200",
+      "price": 908,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIE1heCAy",
+      "title": "Xiaomi Watch Max 2",
+      "image": "https://picsum.photos/id/161/200",
+      "price": 167,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kICAyWA",
+      "title": "Xiaomi Sound  2X",
+      "image": "https://picsum.photos/id/299/200",
+      "price": 960,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIE1pbmkgMlg",
+      "title": "Xiaomi Watch Mini 2X",
+      "image": "https://picsum.photos/id/169/200",
+      "price": 681,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCAgMlg",
+      "title": "Samsung Watch  2X",
+      "image": "https://picsum.photos/id/173/200",
+      "price": 65,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIFBybyBIRA",
+      "title": "Lenovo Phone Pro HD",
+      "image": "https://picsum.photos/id/198/200",
+      "price": 29,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIExpdGUgMlg",
+      "title": "Xiaomi Sound Lite 2X",
+      "image": "https://picsum.photos/id/144/200",
+      "price": 233,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIE1heCA1Rw",
+      "title": "Lenovo Phone Max 5G",
+      "image": "https://picsum.photos/id/53/200",
+      "price": 738,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIE1pbmkg",
+      "title": "Xiaomi Phone Mini ",
+      "image": "https://picsum.photos/id/64/200",
+      "price": 882,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBNaW5pIDJY",
+      "title": "Xiaomi Tablet Mini 2X",
+      "image": "https://picsum.photos/id/49/200",
+      "price": 724,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIE1pbmkgNUc",
+      "title": "Xiaomi Sound Mini 5G",
+      "image": "https://picsum.photos/id/164/200",
+      "price": 451,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBMaXRlIA",
+      "title": "Samsung Phone Lite ",
+      "image": "https://picsum.photos/id/86/200",
+      "price": 72,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIFBybyA",
+      "title": "Samsung Book Pro ",
+      "image": "https://picsum.photos/id/84/200",
+      "price": 422,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBNYXggNUc",
+      "title": "Xiaomi Tablet Max 5G",
+      "image": "https://picsum.photos/id/158/200",
+      "price": 387,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIFBybyBIRA",
+      "title": "Xiaomi Watch Pro HD",
+      "image": "https://picsum.photos/id/70/200",
+      "price": 721,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBMaXRlIA",
+      "title": "Xiaomi Tablet Lite ",
+      "image": "https://picsum.photos/id/86/200",
+      "price": 159,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIFBybyAy",
+      "title": "Samsung Book Pro 2",
+      "image": "https://picsum.photos/id/194/200",
+      "price": 489,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBMaXRlIDVH",
+      "title": "Samsung Watch Lite 5G",
+      "image": "https://picsum.photos/id/279/200",
+      "price": 997,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTWF4IEhE",
+      "title": "Xiaomi Book Max HD",
+      "image": "https://picsum.photos/id/127/200",
+      "price": 211,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIFBybyA1Rw",
+      "title": "Lenovo Phone Pro 5G",
+      "image": "https://picsum.photos/id/115/200",
+      "price": 822,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBMaXRlIA",
+      "title": "Samsung Sound Lite ",
+      "image": "https://picsum.photos/id/85/200",
+      "price": 224,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIFBybyA",
+      "title": "Xiaomi Watch Pro ",
+      "image": "https://picsum.photos/id/60/200",
+      "price": 894,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBQcm8gMlg",
+      "title": "Xiaomi Tablet Pro 2X",
+      "image": "https://picsum.photos/id/203/200",
+      "price": 399,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIE1heCAy",
+      "title": "Lenovo Phone Max 2",
+      "image": "https://picsum.photos/id/221/200",
+      "price": 234,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgIA",
+      "title": "Lenovo Book  ",
+      "image": "https://picsum.photos/id/140/200",
+      "price": 584,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIFBybyA1Rw",
+      "title": "Xiaomi Watch Pro 5G",
+      "image": "https://picsum.photos/id/11/200",
+      "price": 972,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBMaXRlIEhE",
+      "title": "Xiaomi Tablet Lite HD",
+      "image": "https://picsum.photos/id/162/200",
+      "price": 492,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBNYXggNUc",
+      "title": "Samsung Sound Max 5G",
+      "image": "https://picsum.photos/id/59/200",
+      "price": 170,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lICAy",
+      "title": "Xiaomi Phone  2",
+      "image": "https://picsum.photos/id/105/200",
+      "price": 670,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgIDJY",
+      "title": "Lenovo Book  2X",
+      "image": "https://picsum.photos/id/144/200",
+      "price": 972,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTWluaSAy",
+      "title": "Samsung Tablet Mini 2",
+      "image": "https://picsum.photos/id/87/200",
+      "price": 36,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTWF4IA",
+      "title": "Lenovo Book Max ",
+      "image": "https://picsum.photos/id/171/200",
+      "price": 886,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIFBybyAyWA",
+      "title": "Xiaomi Watch Pro 2X",
+      "image": "https://picsum.photos/id/248/200",
+      "price": 125,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCAg",
+      "title": "Samsung Sound  ",
+      "image": "https://picsum.photos/id/102/200",
+      "price": 918,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgIEhE",
+      "title": "Lenovo Book  HD",
+      "image": "https://picsum.photos/id/293/200",
+      "price": 699,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBNaW5pIA",
+      "title": "Samsung Watch Mini ",
+      "image": "https://picsum.photos/id/6/200",
+      "price": 264,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCAgMg",
+      "title": "Samsung Watch  2",
+      "image": "https://picsum.photos/id/236/200",
+      "price": 11,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIE1heCA",
+      "title": "Samsung Book Max ",
+      "image": "https://picsum.photos/id/75/200",
+      "price": 689,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTWluaSA",
+      "title": "Samsung Tablet Mini ",
+      "image": "https://picsum.photos/id/141/200",
+      "price": 553,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIFBybyA1Rw",
+      "title": "Samsung Book Pro 5G",
+      "image": "https://picsum.photos/id/14/200",
+      "price": 899,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBMaXRlIDI",
+      "title": "Samsung Phone Lite 2",
+      "image": "https://picsum.photos/id/91/200",
+      "price": 348,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBQcm8gNUc",
+      "title": "Samsung Watch Pro 5G",
+      "image": "https://picsum.photos/id/197/200",
+      "price": 833,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTGl0ZSA1Rw",
+      "title": "Lenovo Book Lite 5G",
+      "image": "https://picsum.photos/id/187/200",
+      "price": 136,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgIDVH",
+      "title": "Xiaomi Book  5G",
+      "image": "https://picsum.photos/id/37/200",
+      "price": 508,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rICA1Rw",
+      "title": "Samsung Book  5G",
+      "image": "https://picsum.photos/id/71/200",
+      "price": 446,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBNaW5pIA",
+      "title": "Xiaomi Tablet Mini ",
+      "image": "https://picsum.photos/id/63/200",
+      "price": 382,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTGl0ZSA",
+      "title": "Samsung Tablet Lite ",
+      "image": "https://picsum.photos/id/224/200",
+      "price": 393,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBNYXggMlg",
+      "title": "Xiaomi Tablet Max 2X",
+      "image": "https://picsum.photos/id/216/200",
+      "price": 553,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTWF4IDVH",
+      "title": "Samsung Tablet Max 5G",
+      "image": "https://picsum.photos/id/146/200",
+      "price": 361,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoICA",
+      "title": "Lenovo Watch  ",
+      "image": "https://picsum.photos/id/190/200",
+      "price": 312,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBXYXRjaCBNaW5pIDI",
+      "title": "Samsung Watch Mini 2",
+      "image": "https://picsum.photos/id/295/200",
+      "price": 786,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTWF4IDI",
+      "title": "Lenovo Book Max 2",
+      "image": "https://picsum.photos/id/234/200",
+      "price": 378,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIFBybyBIRA",
+      "title": "Xiaomi Sound Pro HD",
+      "image": "https://picsum.photos/id/124/200",
+      "price": 26,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgIDJY",
+      "title": "Samsung Tablet  2X",
+      "image": "https://picsum.photos/id/267/200",
+      "price": 661,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgUHJvIA",
+      "title": "Xiaomi Book Pro ",
+      "image": "https://picsum.photos/id/146/200",
+      "price": 422,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBNaW5pIDI",
+      "title": "Xiaomi Tablet Mini 2",
+      "image": "https://picsum.photos/id/115/200",
+      "price": 363,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTGl0ZSA1Rw",
+      "title": "Samsung Tablet Lite 5G",
+      "image": "https://picsum.photos/id/231/200",
+      "price": 93,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBMaXRlIDI",
+      "title": "Xiaomi Tablet Lite 2",
+      "image": "https://picsum.photos/id/241/200",
+      "price": 400,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgIDVH",
+      "title": "Lenovo Book  5G",
+      "image": "https://picsum.photos/id/180/200",
+      "price": 860,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBQcm8gSEQ",
+      "title": "Xiaomi Tablet Pro HD",
+      "image": "https://picsum.photos/id/206/200",
+      "price": 533,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTWF4IDJY",
+      "title": "Samsung Tablet Max 2X",
+      "image": "https://picsum.photos/id/215/200",
+      "price": 493,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIExpdGUgMlg",
+      "title": "Xiaomi Phone Lite 2X",
+      "image": "https://picsum.photos/id/251/200",
+      "price": 958,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIExpdGUgNUc",
+      "title": "Xiaomi Watch Lite 5G",
+      "image": "https://picsum.photos/id/78/200",
+      "price": 603,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgUHJvIDVH",
+      "title": "Samsung Tablet Pro 5G",
+      "image": "https://picsum.photos/id/239/200",
+      "price": 491,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIE1pbmkgMlg",
+      "title": "Samsung Book Mini 2X",
+      "image": "https://picsum.photos/id/214/200",
+      "price": 992,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBQcm8gNUc",
+      "title": "Samsung Sound Pro 5G",
+      "image": "https://picsum.photos/id/272/200",
+      "price": 483,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBQcm8g",
+      "title": "Xiaomi Tablet Pro ",
+      "image": "https://picsum.photos/id/116/200",
+      "price": 101,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBMaXRlIEhE",
+      "title": "Samsung Phone Lite HD",
+      "image": "https://picsum.photos/id/134/200",
+      "price": 229,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgUHJvIDJY",
+      "title": "Lenovo Book Pro 2X",
+      "image": "https://picsum.photos/id/169/200",
+      "price": 477,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIE1heCBIRA",
+      "title": "Lenovo Phone Max HD",
+      "image": "https://picsum.photos/id/191/200",
+      "price": 725,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTGl0ZSBIRA",
+      "title": "Lenovo Book Lite HD",
+      "image": "https://picsum.photos/id/255/200",
+      "price": 703,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCAgMlg",
+      "title": "Samsung Sound  2X",
+      "image": "https://picsum.photos/id/12/200",
+      "price": 879,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIE1pbmkgNUc",
+      "title": "Xiaomi Watch Mini 5G",
+      "image": "https://picsum.photos/id/4/200",
+      "price": 245,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIFBybyAyWA",
+      "title": "Samsung Book Pro 2X",
+      "image": "https://picsum.photos/id/240/200",
+      "price": 695,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBQcm8gMg",
+      "title": "Samsung Sound Pro 2",
+      "image": "https://picsum.photos/id/266/200",
+      "price": 199,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTWluaSAyWA",
+      "title": "Lenovo Book Mini 2X",
+      "image": "https://picsum.photos/id/232/200",
+      "price": 326,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgUHJvIDJY",
+      "title": "Samsung Tablet Pro 2X",
+      "image": "https://picsum.photos/id/223/200",
+      "price": 39,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIFBybyA",
+      "title": "Lenovo Phone Pro ",
+      "image": "https://picsum.photos/id/190/200",
+      "price": 772,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoICAyWA",
+      "title": "Lenovo Watch  2X",
+      "image": "https://picsum.photos/id/60/200",
+      "price": 66,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBNaW5pIA",
+      "title": "Samsung Sound Mini ",
+      "image": "https://picsum.photos/id/73/200",
+      "price": 203,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBMaXRlIDVH",
+      "title": "Samsung Phone Lite 5G",
+      "image": "https://picsum.photos/id/71/200",
+      "price": 589,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIFBybyAy",
+      "title": "Lenovo Phone Pro 2",
+      "image": "https://picsum.photos/id/132/200",
+      "price": 467,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIExpdGUgMg",
+      "title": "Xiaomi Phone Lite 2",
+      "image": "https://picsum.photos/id/227/200",
+      "price": 354,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSAgMg",
+      "title": "Samsung Phone  2",
+      "image": "https://picsum.photos/id/51/200",
+      "price": 916,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rICA",
+      "title": "Samsung Book  ",
+      "image": "https://picsum.photos/id/191/200",
+      "price": 967,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBNaW5pIEhE",
+      "title": "Samsung Phone Mini HD",
+      "image": "https://picsum.photos/id/214/200",
+      "price": 132,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTGl0ZSA",
+      "title": "Lenovo Book Lite ",
+      "image": "https://picsum.photos/id/206/200",
+      "price": 4,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBNaW5pIDVH",
+      "title": "Samsung Sound Mini 5G",
+      "image": "https://picsum.photos/id/75/200",
+      "price": 823,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBNaW5pIDI",
+      "title": "Samsung Phone Mini 2",
+      "image": "https://picsum.photos/id/200/200",
+      "price": 189,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIExpdGUgMg",
+      "title": "Xiaomi Watch Lite 2",
+      "image": "https://picsum.photos/id/148/200",
+      "price": 910,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBNYXgg",
+      "title": "Samsung Phone Max ",
+      "image": "https://picsum.photos/id/212/200",
+      "price": 20,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBMaXRlIDJY",
+      "title": "Xiaomi Tablet Lite 2X",
+      "image": "https://picsum.photos/id/262/200",
+      "price": 37,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgIDVH",
+      "title": "Samsung Tablet  5G",
+      "image": "https://picsum.photos/id/156/200",
+      "price": 267,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoICBIRA",
+      "title": "Xiaomi Watch  HD",
+      "image": "https://picsum.photos/id/294/200",
+      "price": 496,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgUHJvIA",
+      "title": "Samsung Tablet Pro ",
+      "image": "https://picsum.photos/id/280/200",
+      "price": 554,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIExpdGUgMlg",
+      "title": "Lenovo Phone Lite 2X",
+      "image": "https://picsum.photos/id/117/200",
+      "price": 839,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBNYXggSEQ",
+      "title": "Samsung Sound Max HD",
+      "image": "https://picsum.photos/id/107/200",
+      "price": 791,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgTGl0ZSBIRA",
+      "title": "Samsung Tablet Lite HD",
+      "image": "https://picsum.photos/id/50/200",
+      "price": 257,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoIE1heCBIRA",
+      "title": "Xiaomi Watch Max HD",
+      "image": "https://picsum.photos/id/285/200",
+      "price": 360,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoICA1Rw",
+      "title": "Lenovo Watch  5G",
+      "image": "https://picsum.photos/id/258/200",
+      "price": 933,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIE1pbmkgMlg",
+      "title": "Xiaomi Phone Mini 2X",
+      "image": "https://picsum.photos/id/184/200",
+      "price": 911,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rICAyWA",
+      "title": "Samsung Book  2X",
+      "image": "https://picsum.photos/id/196/200",
+      "price": 848,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCAgSEQ",
+      "title": "Xiaomi Tablet  HD",
+      "image": "https://picsum.photos/id/1/200",
+      "price": 527,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCAgNUc",
+      "title": "Samsung Sound  5G",
+      "image": "https://picsum.photos/id/20/200",
+      "price": 462,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSAgSEQ",
+      "title": "Samsung Phone  HD",
+      "image": "https://picsum.photos/id/199/200",
+      "price": 100,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTWluaSAy",
+      "title": "Xiaomi Book Mini 2",
+      "image": "https://picsum.photos/id/226/200",
+      "price": 330,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCAgMlg",
+      "title": "Xiaomi Tablet  2X",
+      "image": "https://picsum.photos/id/33/200",
+      "price": 550,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSAgNUc",
+      "title": "Samsung Phone  5G",
+      "image": "https://picsum.photos/id/105/200",
+      "price": 922,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIExpdGUgSEQ",
+      "title": "Xiaomi Sound Lite HD",
+      "image": "https://picsum.photos/id/88/200",
+      "price": 907,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoICAy",
+      "title": "Lenovo Watch  2",
+      "image": "https://picsum.photos/id/254/200",
+      "price": 135,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCAg",
+      "title": "Xiaomi Tablet  ",
+      "image": "https://picsum.photos/id/54/200",
+      "price": 362,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBNaW5pIDJY",
+      "title": "Samsung Phone Mini 2X",
+      "image": "https://picsum.photos/id/33/200",
+      "price": 734,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIFBybyBIRA",
+      "title": "Lenovo Watch Pro HD",
+      "image": "https://picsum.photos/id/201/200",
+      "price": 512,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIFBybyAy",
+      "title": "Xiaomi Sound Pro 2",
+      "image": "https://picsum.photos/id/244/200",
+      "price": 445,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIFBybyAyWA",
+      "title": "Lenovo Phone Pro 2X",
+      "image": "https://picsum.photos/id/158/200",
+      "price": 105,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIE1heCA1Rw",
+      "title": "Xiaomi Phone Max 5G",
+      "image": "https://picsum.photos/id/215/200",
+      "price": 942,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFRhYmxldCBNYXggMg",
+      "title": "Xiaomi Tablet Max 2",
+      "image": "https://picsum.photos/id/261/200",
+      "price": 963,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIE1heCA",
+      "title": "Lenovo Phone Max ",
+      "image": "https://picsum.photos/id/235/200",
+      "price": 268,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBNYXgg",
+      "title": "Samsung Sound Max ",
+      "image": "https://picsum.photos/id/200/200",
+      "price": 548,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIExpdGUgMg",
+      "title": "Samsung Book Lite 2",
+      "image": "https://picsum.photos/id/237/200",
+      "price": 963,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIE1pbmkgSEQ",
+      "title": "Xiaomi Sound Mini HD",
+      "image": "https://picsum.photos/id/278/200",
+      "price": 990,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIExpdGUgNUc",
+      "title": "Lenovo Watch Lite 5G",
+      "image": "https://picsum.photos/id/205/200",
+      "price": 556,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgUHJvIDVH",
+      "title": "Xiaomi Book Pro 5G",
+      "image": "https://picsum.photos/id/164/200",
+      "price": 319,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgUHJvIDJY",
+      "title": "Xiaomi Book Pro 2X",
+      "image": "https://picsum.photos/id/82/200",
+      "price": 932,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoICAyWA",
+      "title": "Xiaomi Watch  2X",
+      "image": "https://picsum.photos/id/138/200",
+      "price": 394,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFdhdGNoICA1Rw",
+      "title": "Xiaomi Watch  5G",
+      "image": "https://picsum.photos/id/299/200",
+      "price": 969,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIE1pbmkgMg",
+      "title": "Lenovo Phone Mini 2",
+      "image": "https://picsum.photos/id/43/200",
+      "price": 259,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIExpdGUgNUc",
+      "title": "Samsung Book Lite 5G",
+      "image": "https://picsum.photos/id/38/200",
+      "price": 708,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBNaW5pIA",
+      "title": "Samsung Phone Mini ",
+      "image": "https://picsum.photos/id/211/200",
+      "price": 989,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kIExpdGUgMg",
+      "title": "Xiaomi Sound Lite 2",
+      "image": "https://picsum.photos/id/89/200",
+      "price": 877,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIFBybyA",
+      "title": "Lenovo Watch Pro ",
+      "image": "https://picsum.photos/id/83/200",
+      "price": 654,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIE1pbmkgSEQ",
+      "title": "Lenovo Watch Mini HD",
+      "image": "https://picsum.photos/id/182/200",
+      "price": 721,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTWF4IDJY",
+      "title": "Xiaomi Book Max 2X",
+      "image": "https://picsum.photos/id/219/200",
+      "price": 418,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgIDI",
+      "title": "Xiaomi Book  2",
+      "image": "https://picsum.photos/id/258/200",
+      "price": 809,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgIEhE",
+      "title": "Xiaomi Book  HD",
+      "image": "https://picsum.photos/id/164/200",
+      "price": 653,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIExpdGUgMg",
+      "title": "Lenovo Phone Lite 2",
+      "image": "https://picsum.photos/id/234/200",
+      "price": 669,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTWluaSBIRA",
+      "title": "Xiaomi Book Mini HD",
+      "image": "https://picsum.photos/id/116/200",
+      "price": 336,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIExpdGUgSEQ",
+      "title": "Lenovo Watch Lite HD",
+      "image": "https://picsum.photos/id/163/200",
+      "price": 276,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rICAy",
+      "title": "Samsung Book  2",
+      "image": "https://picsum.photos/id/294/200",
+      "price": 293,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBTb3VuZCBQcm8gMlg",
+      "title": "Samsung Sound Pro 2X",
+      "image": "https://picsum.photos/id/286/200",
+      "price": 903,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTWF4IDVH",
+      "title": "Xiaomi Book Max 5G",
+      "image": "https://picsum.photos/id/42/200",
+      "price": 751,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBNYXggNUc",
+      "title": "Samsung Phone Max 5G",
+      "image": "https://picsum.photos/id/125/200",
+      "price": 408,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgUHJvIDI",
+      "title": "Samsung Tablet Pro 2",
+      "image": "https://picsum.photos/id/238/200",
+      "price": 724,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBNYXggMlg",
+      "title": "Samsung Phone Max 2X",
+      "image": "https://picsum.photos/id/299/200",
+      "price": 326,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBMaXRlIDJY",
+      "title": "Samsung Phone Lite 2X",
+      "image": "https://picsum.photos/id/155/200",
+      "price": 356,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSAg",
+      "title": "Samsung Phone  ",
+      "image": "https://picsum.photos/id/64/200",
+      "price": 793,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lICA",
+      "title": "Xiaomi Phone  ",
+      "image": "https://picsum.photos/id/114/200",
+      "price": 182,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgUHJvIDVH",
+      "title": "Lenovo Book Pro 5G",
+      "image": "https://picsum.photos/id/90/200",
+      "price": 406,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIE1pbmkgSEQ",
+      "title": "Lenovo Phone Mini HD",
+      "image": "https://picsum.photos/id/45/200",
+      "price": 227,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIExpdGUgMlg",
+      "title": "Samsung Book Lite 2X",
+      "image": "https://picsum.photos/id/27/200",
+      "price": 804,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgIDI",
+      "title": "Lenovo Book  2",
+      "image": "https://picsum.photos/id/262/200",
+      "price": 260,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIEJvb2sgTGl0ZSAyWA",
+      "title": "Xiaomi Book Lite 2X",
+      "image": "https://picsum.photos/id/270/200",
+      "price": 257,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBUYWJsZXQgUHJvIEhE",
+      "title": "Samsung Tablet Pro HD",
+      "image": "https://picsum.photos/id/49/200",
+      "price": 950,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBQaG9uZSBNYXggMg",
+      "title": "Samsung Phone Max 2",
+      "image": "https://picsum.photos/id/246/200",
+      "price": 691,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIFBybyBIRA",
+      "title": "Xiaomi Phone Pro HD",
+      "image": "https://picsum.photos/id/219/200",
+      "price": 564,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIE1heCAy",
+      "title": "Lenovo Watch Max 2",
+      "image": "https://picsum.photos/id/186/200",
+      "price": 863,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIE1pbmkgNUc",
+      "title": "Lenovo Watch Mini 5G",
+      "image": "https://picsum.photos/id/130/200",
+      "price": 406,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTWF4IDVH",
+      "title": "Lenovo Book Max 5G",
+      "image": "https://picsum.photos/id/99/200",
+      "price": 728,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIFBybyAy",
+      "title": "Xiaomi Phone Pro 2",
+      "image": "https://picsum.photos/id/149/200",
+      "price": 885,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lICAyWA",
+      "title": "Xiaomi Phone  2X",
+      "image": "https://picsum.photos/id/166/200",
+      "price": 41,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTWF4IEhE",
+      "title": "Lenovo Book Max HD",
+      "image": "https://picsum.photos/id/188/200",
+      "price": 120,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0ICA1Rw",
+      "title": "Apple Tablet  5G",
+      "image": "https://picsum.photos/id/65/200",
+      "price": 403,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIE1heCBIRA",
+      "title": "Xiaomi Phone Max HD",
+      "image": "https://picsum.photos/id/94/200",
+      "price": 611,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgUHJvIEhE",
+      "title": "Lenovo Book Pro HD",
+      "image": "https://picsum.photos/id/238/200",
+      "price": 193,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTWluaSA",
+      "title": "Apple Phone Mini ",
+      "image": "https://picsum.photos/id/111/200",
+      "price": 569,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIE1heCA1Rw",
+      "title": "Lenovo Watch Max 5G",
+      "image": "https://picsum.photos/id/254/200",
+      "price": 636,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIE1pbmkgNUc",
+      "title": "Xiaomi Phone Mini 5G",
+      "image": "https://picsum.photos/id/255/200",
+      "price": 253,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTGl0ZSBIRA",
+      "title": "Apple Phone Lite HD",
+      "image": "https://picsum.photos/id/81/200",
+      "price": 519,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFBob25lIExpdGUgNUc",
+      "title": "Xiaomi Phone Lite 5G",
+      "image": "https://picsum.photos/id/220/200",
+      "price": 731,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIExpdGUgSEQ",
+      "title": "Lenovo Phone Lite HD",
+      "image": "https://picsum.photos/id/279/200",
+      "price": 556,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIE1heCAyWA",
+      "title": "Lenovo Watch Max 2X",
+      "image": "https://picsum.photos/id/202/200",
+      "price": 162,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTWF4IEhE",
+      "title": "Apple Phone Max HD",
+      "image": "https://picsum.photos/id/189/200",
+      "price": 790,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIFBybyAy",
+      "title": "Lenovo Watch Pro 2",
+      "image": "https://picsum.photos/id/286/200",
+      "price": 497,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IExpdGUgNUc",
+      "title": "Apple Tablet Lite 5G",
+      "image": "https://picsum.photos/id/88/200",
+      "price": 965,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIFBybyA1Rw",
+      "title": "Lenovo Watch Pro 5G",
+      "image": "https://picsum.photos/id/136/200",
+      "price": 640,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBMaXRlIDJY",
+      "title": "Apple Book Lite 2X",
+      "image": "https://picsum.photos/id/287/200",
+      "price": 458,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgUHJvIDI",
+      "title": "Apple Phone Pro 2",
+      "image": "https://picsum.photos/id/160/200",
+      "price": 539,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoICBIRA",
+      "title": "Lenovo Watch  HD",
+      "image": "https://picsum.photos/id/296/200",
+      "price": 127,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIExpdGUg",
+      "title": "Lenovo Watch Lite ",
+      "image": "https://picsum.photos/id/103/200",
+      "price": 34,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBMaXRlIDVH",
+      "title": "Apple Book Lite 5G",
+      "image": "https://picsum.photos/id/157/200",
+      "price": 222,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIE1heCAyWA",
+      "title": "Lenovo Phone Max 2X",
+      "image": "https://picsum.photos/id/13/200",
+      "price": 498,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIE1pbmkgMlg",
+      "title": "Lenovo Phone Mini 2X",
+      "image": "https://picsum.photos/id/135/200",
+      "price": 106,
+      "formula": "p*1"
+    },
+    {
+      "id": "WGlhb21pIFNvdW5kICA",
+      "title": "Xiaomi Sound  ",
+      "image": "https://picsum.photos/id/158/200",
+      "price": 187,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lIE1pbmkg",
+      "title": "Lenovo Phone Mini ",
+      "image": "https://picsum.photos/id/281/200",
+      "price": 737,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIEJvb2sgTGl0ZSAy",
+      "title": "Lenovo Book Lite 2",
+      "image": "https://picsum.photos/id/112/200",
+      "price": 284,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIE1heCBIRA",
+      "title": "Lenovo Watch Max HD",
+      "image": "https://picsum.photos/id/25/200",
+      "price": 936,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTWluaSBIRA",
+      "title": "Apple Phone Mini HD",
+      "image": "https://picsum.photos/id/65/200",
+      "price": 293,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBQcm8gNUc",
+      "title": "Apple Book Pro 5G",
+      "image": "https://picsum.photos/id/166/200",
+      "price": 12,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IE1heCAy",
+      "title": "Apple Tablet Max 2",
+      "image": "https://picsum.photos/id/253/200",
+      "price": 277,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIE1pbmkg",
+      "title": "Lenovo Watch Mini ",
+      "image": "https://picsum.photos/id/294/200",
+      "price": 121,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgUHJvIDVH",
+      "title": "Apple Phone Pro 5G",
+      "image": "https://picsum.photos/id/142/200",
+      "price": 752,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0ICBIRA",
+      "title": "Apple Tablet  HD",
+      "image": "https://picsum.photos/id/31/200",
+      "price": 541,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBQcm8gMg",
+      "title": "Apple Book Pro 2",
+      "image": "https://picsum.photos/id/102/200",
+      "price": 849,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFdhdGNoIE1pbmkgMg",
+      "title": "Lenovo Watch Mini 2",
+      "image": "https://picsum.photos/id/157/200",
+      "price": 555,
+      "formula": "p*1"
+    },
+    {
+      "id": "U2Ftc3VuZyBCb29rIE1pbmkgMg",
+      "title": "Samsung Book Mini 2",
+      "image": "https://picsum.photos/id/37/200",
+      "price": 503,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTGl0ZSAy",
+      "title": "Apple Phone Lite 2",
+      "image": "https://picsum.photos/id/268/200",
+      "price": 103,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kICAy",
+      "title": "Lenovo Sound  2",
+      "image": "https://picsum.photos/id/214/200",
+      "price": 738,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBMaXRlIDI",
+      "title": "Apple Book Lite 2",
+      "image": "https://picsum.photos/id/79/200",
+      "price": 889,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBQcm8gSEQ",
+      "title": "Lenovo Tablet Pro HD",
+      "image": "https://picsum.photos/id/162/200",
+      "price": 515,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBNaW5pIDVH",
+      "title": "Apple Book Mini 5G",
+      "image": "https://picsum.photos/id/197/200",
+      "price": 578,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIExpdGUgNUc",
+      "title": "Lenovo Sound Lite 5G",
+      "image": "https://picsum.photos/id/54/200",
+      "price": 597,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IExpdGUgSEQ",
+      "title": "Apple Tablet Lite HD",
+      "image": "https://picsum.photos/id/138/200",
+      "price": 923,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTWF4IDI",
+      "title": "BQ Phone Max 2",
+      "image": "https://picsum.photos/id/69/200",
+      "price": 856,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTWluaSA1Rw",
+      "title": "Apple Watch Mini 5G",
+      "image": "https://picsum.photos/id/34/200",
+      "price": 839,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTWluaSAyWA",
+      "title": "Apple Watch Mini 2X",
+      "image": "https://picsum.photos/id/187/200",
+      "price": 674,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0ICAyWA",
+      "title": "BQ Tablet  2X",
+      "image": "https://picsum.photos/id/181/200",
+      "price": 758,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBMaXRlIDI",
+      "title": "BQ Book Lite 2",
+      "image": "https://picsum.photos/id/156/200",
+      "price": 676,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0ICA",
+      "title": "BQ Tablet  ",
+      "image": "https://picsum.photos/id/287/200",
+      "price": 681,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IE1pbmkgMg",
+      "title": "BQ Tablet Mini 2",
+      "image": "https://picsum.photos/id/116/200",
+      "price": 725,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBQcm8g",
+      "title": "Apple Book Pro ",
+      "image": "https://picsum.photos/id/167/200",
+      "price": 797,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBQcm8g",
+      "title": "Lenovo Tablet Pro ",
+      "image": "https://picsum.photos/id/285/200",
+      "price": 695,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIE1heCBIRA",
+      "title": "Lenovo Sound Max HD",
+      "image": "https://picsum.photos/id/69/200",
+      "price": 926,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTWF4IDI",
+      "title": "BQ Watch Max 2",
+      "image": "https://picsum.photos/id/63/200",
+      "price": 222,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IE1pbmkgNUc",
+      "title": "BQ Tablet Mini 5G",
+      "image": "https://picsum.photos/id/227/200",
+      "price": 197,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTWluaSAy",
+      "title": "BQ Sound Mini 2",
+      "image": "https://picsum.photos/id/271/200",
+      "price": 294,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgIDI",
+      "title": "BQ Phone  2",
+      "image": "https://picsum.photos/id/27/200",
+      "price": 7,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBNYXggMg",
+      "title": "Lenovo Tablet Max 2",
+      "image": "https://picsum.photos/id/108/200",
+      "price": 758,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIE1pbmkgMlg",
+      "title": "Lenovo Sound Mini 2X",
+      "image": "https://picsum.photos/id/218/200",
+      "price": 233,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIE1pbmkgMg",
+      "title": "Lenovo Sound Mini 2",
+      "image": "https://picsum.photos/id/217/200",
+      "price": 604,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IE1pbmkgMlg",
+      "title": "Apple Tablet Mini 2X",
+      "image": "https://picsum.photos/id/78/200",
+      "price": 517,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIE1heCAyWA",
+      "title": "Lenovo Sound Max 2X",
+      "image": "https://picsum.photos/id/32/200",
+      "price": 348,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIE1heCA1Rw",
+      "title": "Lenovo Sound Max 5G",
+      "image": "https://picsum.photos/id/22/200",
+      "price": 565,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTWluaSA1Rw",
+      "title": "Apple Sound Mini 5G",
+      "image": "https://picsum.photos/id/235/200",
+      "price": 692,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IExpdGUgMlg",
+      "title": "BQ Tablet Lite 2X",
+      "image": "https://picsum.photos/id/289/200",
+      "price": 738,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIE1heCA",
+      "title": "Lenovo Sound Max ",
+      "image": "https://picsum.photos/id/221/200",
+      "price": 22,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTWF4IEhE",
+      "title": "Apple Sound Max HD",
+      "image": "https://picsum.photos/id/283/200",
+      "price": 828,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTGl0ZSA1Rw",
+      "title": "Apple Sound Lite 5G",
+      "image": "https://picsum.photos/id/25/200",
+      "price": 906,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggIDJY",
+      "title": "Apple Watch  2X",
+      "image": "https://picsum.photos/id/169/200",
+      "price": 916,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IE1pbmkgMlg",
+      "title": "BQ Tablet Mini 2X",
+      "image": "https://picsum.photos/id/98/200",
+      "price": 28,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgUHJvIDJY",
+      "title": "Apple Sound Pro 2X",
+      "image": "https://picsum.photos/id/10/200",
+      "price": 908,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IE1heCA1Rw",
+      "title": "BQ Tablet Max 5G",
+      "image": "https://picsum.photos/id/1/200",
+      "price": 69,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgUHJvIEhE",
+      "title": "Apple Phone Pro HD",
+      "image": "https://picsum.photos/id/283/200",
+      "price": 238,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayAgMg",
+      "title": "BQ Book  2",
+      "image": "https://picsum.photos/id/261/200",
+      "price": 68,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBNYXggNUc",
+      "title": "Lenovo Tablet Max 5G",
+      "image": "https://picsum.photos/id/31/200",
+      "price": 927,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IExpdGUg",
+      "title": "BQ Tablet Lite ",
+      "image": "https://picsum.photos/id/32/200",
+      "price": 675,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kICA",
+      "title": "Lenovo Sound  ",
+      "image": "https://picsum.photos/id/264/200",
+      "price": 529,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggUHJvIDJY",
+      "title": "Apple Watch Pro 2X",
+      "image": "https://picsum.photos/id/23/200",
+      "price": 308,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIExpdGUgMg",
+      "title": "Lenovo Sound Lite 2",
+      "image": "https://picsum.photos/id/207/200",
+      "price": 565,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBNYXggMlg",
+      "title": "Apple Book Max 2X",
+      "image": "https://picsum.photos/id/269/200",
+      "price": 636,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBQcm8gSEQ",
+      "title": "BQ Book Pro HD",
+      "image": "https://picsum.photos/id/21/200",
+      "price": 1,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgIDI",
+      "title": "Apple Sound  2",
+      "image": "https://picsum.photos/id/214/200",
+      "price": 632,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTWluaSAyWA",
+      "title": "BQ Watch Mini 2X",
+      "image": "https://picsum.photos/id/274/200",
+      "price": 969,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayAgMg",
+      "title": "Apple Book  2",
+      "image": "https://picsum.photos/id/113/200",
+      "price": 284,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTWluaSBIRA",
+      "title": "BQ Sound Mini HD",
+      "image": "https://picsum.photos/id/115/200",
+      "price": 869,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTWluaSAyWA",
+      "title": "Apple Sound Mini 2X",
+      "image": "https://picsum.photos/id/84/200",
+      "price": 741,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgIEhE",
+      "title": "BQ Sound  HD",
+      "image": "https://picsum.photos/id/256/200",
+      "price": 782,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBNaW5pIEhE",
+      "title": "Apple Book Mini HD",
+      "image": "https://picsum.photos/id/68/200",
+      "price": 139,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTWF4IA",
+      "title": "BQ Watch Max ",
+      "image": "https://picsum.photos/id/115/200",
+      "price": 489,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IE1heCBIRA",
+      "title": "BQ Tablet Max HD",
+      "image": "https://picsum.photos/id/38/200",
+      "price": 327,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggUHJvIA",
+      "title": "BQ Watch Pro ",
+      "image": "https://picsum.photos/id/148/200",
+      "price": 776,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayAg",
+      "title": "Apple Book  ",
+      "image": "https://picsum.photos/id/196/200",
+      "price": 568,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIFBybyAyWA",
+      "title": "Lenovo Sound Pro 2X",
+      "image": "https://picsum.photos/id/121/200",
+      "price": 709,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgUHJvIDJY",
+      "title": "BQ Phone Pro 2X",
+      "image": "https://picsum.photos/id/34/200",
+      "price": 253,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggUHJvIDI",
+      "title": "Apple Watch Pro 2",
+      "image": "https://picsum.photos/id/266/200",
+      "price": 950,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggIDVH",
+      "title": "Apple Watch  5G",
+      "image": "https://picsum.photos/id/299/200",
+      "price": 624,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTWF4IDVH",
+      "title": "Apple Phone Max 5G",
+      "image": "https://picsum.photos/id/178/200",
+      "price": 881,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTWF4IDJY",
+      "title": "Apple Phone Max 2X",
+      "image": "https://picsum.photos/id/251/200",
+      "price": 857,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggIDJY",
+      "title": "BQ Watch  2X",
+      "image": "https://picsum.photos/id/88/200",
+      "price": 833,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgUHJvIA",
+      "title": "Apple Phone Pro ",
+      "image": "https://picsum.photos/id/9/200",
+      "price": 332,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lICAyWA",
+      "title": "Lenovo Phone  2X",
+      "image": "https://picsum.photos/id/3/200",
+      "price": 658,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggUHJvIA",
+      "title": "Apple Watch Pro ",
+      "image": "https://picsum.photos/id/145/200",
+      "price": 517,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IExpdGUgNUc",
+      "title": "BQ Tablet Lite 5G",
+      "image": "https://picsum.photos/id/198/200",
+      "price": 606,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBNYXggNUc",
+      "title": "BQ Book Max 5G",
+      "image": "https://picsum.photos/id/121/200",
+      "price": 474,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTGl0ZSAyWA",
+      "title": "BQ Phone Lite 2X",
+      "image": "https://picsum.photos/id/165/200",
+      "price": 785,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgIDVH",
+      "title": "BQ Sound  5G",
+      "image": "https://picsum.photos/id/260/200",
+      "price": 864,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBNYXgg",
+      "title": "Apple Book Max ",
+      "image": "https://picsum.photos/id/264/200",
+      "price": 192,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgUHJvIDI",
+      "title": "BQ Phone Pro 2",
+      "image": "https://picsum.photos/id/15/200",
+      "price": 975,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgUHJvIDJY",
+      "title": "BQ Sound Pro 2X",
+      "image": "https://picsum.photos/id/255/200",
+      "price": 153,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggIEhE",
+      "title": "BQ Watch  HD",
+      "image": "https://picsum.photos/id/207/200",
+      "price": 645,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBNaW5pIEhE",
+      "title": "BQ Book Mini HD",
+      "image": "https://picsum.photos/id/208/200",
+      "price": 641,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTWF4IEhE",
+      "title": "Apple Watch Max HD",
+      "image": "https://picsum.photos/id/155/200",
+      "price": 635,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggIA",
+      "title": "BQ Watch  ",
+      "image": "https://picsum.photos/id/82/200",
+      "price": 504,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTGl0ZSBIRA",
+      "title": "BQ Watch Lite HD",
+      "image": "https://picsum.photos/id/281/200",
+      "price": 488,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTWluaSAyWA",
+      "title": "BQ Phone Mini 2X",
+      "image": "https://picsum.photos/id/72/200",
+      "price": 641,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgIA",
+      "title": "Apple Sound  ",
+      "image": "https://picsum.photos/id/261/200",
+      "price": 674,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTGl0ZSA1Rw",
+      "title": "Apple Watch Lite 5G",
+      "image": "https://picsum.photos/id/248/200",
+      "price": 679,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBNaW5pIDVH",
+      "title": "Lenovo Tablet Mini 5G",
+      "image": "https://picsum.photos/id/285/200",
+      "price": 1,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTWF4IDVH",
+      "title": "Apple Sound Max 5G",
+      "image": "https://picsum.photos/id/70/200",
+      "price": 531,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTGl0ZSA1Rw",
+      "title": "BQ Watch Lite 5G",
+      "image": "https://picsum.photos/id/107/200",
+      "price": 227,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTGl0ZSAy",
+      "title": "BQ Watch Lite 2",
+      "image": "https://picsum.photos/id/170/200",
+      "price": 772,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggIEhE",
+      "title": "Apple Watch  HD",
+      "image": "https://picsum.photos/id/207/200",
+      "price": 35,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBNYXggMlg",
+      "title": "BQ Book Max 2X",
+      "image": "https://picsum.photos/id/157/200",
+      "price": 885,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayAgSEQ",
+      "title": "BQ Book  HD",
+      "image": "https://picsum.photos/id/219/200",
+      "price": 141,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgUHJvIA",
+      "title": "BQ Phone Pro ",
+      "image": "https://picsum.photos/id/107/200",
+      "price": 839,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTWluaSBIRA",
+      "title": "Apple Sound Mini HD",
+      "image": "https://picsum.photos/id/153/200",
+      "price": 57,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTWluaSA",
+      "title": "BQ Phone Mini ",
+      "image": "https://picsum.photos/id/210/200",
+      "price": 283,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTWluaSA",
+      "title": "BQ Watch Mini ",
+      "image": "https://picsum.photos/id/46/200",
+      "price": 753,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIE1pbmkg",
+      "title": "Lenovo Sound Mini ",
+      "image": "https://picsum.photos/id/2/200",
+      "price": 364,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IE1heCA",
+      "title": "Apple Tablet Max ",
+      "image": "https://picsum.photos/id/108/200",
+      "price": 508,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IE1heCAyWA",
+      "title": "Apple Tablet Max 2X",
+      "image": "https://picsum.photos/id/55/200",
+      "price": 147,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBQcm8gMlg",
+      "title": "Lenovo Tablet Pro 2X",
+      "image": "https://picsum.photos/id/26/200",
+      "price": 977,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgIDJY",
+      "title": "Apple Phone  2X",
+      "image": "https://picsum.photos/id/207/200",
+      "price": 513,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IFBybyA",
+      "title": "BQ Tablet Pro ",
+      "image": "https://picsum.photos/id/40/200",
+      "price": 507,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIE1heCAy",
+      "title": "Lenovo Sound Max 2",
+      "image": "https://picsum.photos/id/115/200",
+      "price": 334,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgIEhE",
+      "title": "Apple Sound  HD",
+      "image": "https://picsum.photos/id/174/200",
+      "price": 943,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTWluaSBIRA",
+      "title": "BQ Phone Mini HD",
+      "image": "https://picsum.photos/id/79/200",
+      "price": 916,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTWF4IA",
+      "title": "Apple Watch Max ",
+      "image": "https://picsum.photos/id/137/200",
+      "price": 757,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTWF4IEhE",
+      "title": "BQ Phone Max HD",
+      "image": "https://picsum.photos/id/32/200",
+      "price": 576,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTGl0ZSBIRA",
+      "title": "Apple Sound Lite HD",
+      "image": "https://picsum.photos/id/234/200",
+      "price": 926,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBNaW5pIA",
+      "title": "BQ Book Mini ",
+      "image": "https://picsum.photos/id/225/200",
+      "price": 130,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTWluaSAy",
+      "title": "Apple Sound Mini 2",
+      "image": "https://picsum.photos/id/277/200",
+      "price": 723,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIFBybyA1Rw",
+      "title": "Lenovo Sound Pro 5G",
+      "image": "https://picsum.photos/id/243/200",
+      "price": 351,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBNaW5pIDVH",
+      "title": "BQ Book Mini 5G",
+      "image": "https://picsum.photos/id/46/200",
+      "price": 468,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IE1heCBIRA",
+      "title": "Apple Tablet Max HD",
+      "image": "https://picsum.photos/id/183/200",
+      "price": 580,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IE1pbmkgSEQ",
+      "title": "BQ Tablet Mini HD",
+      "image": "https://picsum.photos/id/211/200",
+      "price": 794,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IExpdGUgMlg",
+      "title": "Apple Tablet Lite 2X",
+      "image": "https://picsum.photos/id/78/200",
+      "price": 813,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBQcm8g",
+      "title": "BQ Book Pro ",
+      "image": "https://picsum.photos/id/235/200",
+      "price": 698,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IFBybyAy",
+      "title": "Apple Tablet Pro 2",
+      "image": "https://picsum.photos/id/165/200",
+      "price": 503,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIExpdGUg",
+      "title": "Lenovo Sound Lite ",
+      "image": "https://picsum.photos/id/178/200",
+      "price": 740,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0ICAyWA",
+      "title": "Apple Tablet  2X",
+      "image": "https://picsum.photos/id/246/200",
+      "price": 518,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCAgNUc",
+      "title": "Lenovo Tablet  5G",
+      "image": "https://picsum.photos/id/31/200",
+      "price": 582,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTGl0ZSA",
+      "title": "BQ Phone Lite ",
+      "image": "https://picsum.photos/id/290/200",
+      "price": 7,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBMaXRlIA",
+      "title": "BQ Book Lite ",
+      "image": "https://picsum.photos/id/176/200",
+      "price": 962,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTGl0ZSAyWA",
+      "title": "BQ Sound Lite 2X",
+      "image": "https://picsum.photos/id/85/200",
+      "price": 803,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IE1pbmkg",
+      "title": "Apple Tablet Mini ",
+      "image": "https://picsum.photos/id/215/200",
+      "price": 307,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTWluaSA1Rw",
+      "title": "BQ Phone Mini 5G",
+      "image": "https://picsum.photos/id/294/200",
+      "price": 541,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTGl0ZSA",
+      "title": "BQ Watch Lite ",
+      "image": "https://picsum.photos/id/107/200",
+      "price": 3,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBQcm8gNUc",
+      "title": "BQ Book Pro 5G",
+      "image": "https://picsum.photos/id/254/200",
+      "price": 926,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kICAyWA",
+      "title": "Lenovo Sound  2X",
+      "image": "https://picsum.photos/id/178/200",
+      "price": 695,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgIDI",
+      "title": "Apple Phone  2",
+      "image": "https://picsum.photos/id/231/200",
+      "price": 662,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgIEhE",
+      "title": "Apple Phone  HD",
+      "image": "https://picsum.photos/id/283/200",
+      "price": 947,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lICBIRA",
+      "title": "Lenovo Phone  HD",
+      "image": "https://picsum.photos/id/51/200",
+      "price": 116,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTWF4IDVH",
+      "title": "BQ Sound Max 5G",
+      "image": "https://picsum.photos/id/70/200",
+      "price": 7,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgUHJvIEhE",
+      "title": "BQ Phone Pro HD",
+      "image": "https://picsum.photos/id/200/200",
+      "price": 751,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTWF4IDVH",
+      "title": "BQ Watch Max 5G",
+      "image": "https://picsum.photos/id/210/200",
+      "price": 260,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTWluaSAyWA",
+      "title": "Apple Phone Mini 2X",
+      "image": "https://picsum.photos/id/265/200",
+      "price": 395,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgUHJvIDI",
+      "title": "BQ Sound Pro 2",
+      "image": "https://picsum.photos/id/255/200",
+      "price": 0,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IE1heCA1Rw",
+      "title": "Apple Tablet Max 5G",
+      "image": "https://picsum.photos/id/82/200",
+      "price": 978,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIFBybyA",
+      "title": "Lenovo Sound Pro ",
+      "image": "https://picsum.photos/id/64/200",
+      "price": 456,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBNaW5pIA",
+      "title": "Lenovo Tablet Mini ",
+      "image": "https://picsum.photos/id/181/200",
+      "price": 495,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayAgMlg",
+      "title": "Apple Book  2X",
+      "image": "https://picsum.photos/id/269/200",
+      "price": 790,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IFBybyA1Rw",
+      "title": "Apple Tablet Pro 5G",
+      "image": "https://picsum.photos/id/297/200",
+      "price": 170,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0ICAy",
+      "title": "BQ Tablet  2",
+      "image": "https://picsum.photos/id/148/200",
+      "price": 3,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kICA1Rw",
+      "title": "Lenovo Sound  5G",
+      "image": "https://picsum.photos/id/219/200",
+      "price": 583,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTWF4IDI",
+      "title": "BQ Sound Max 2",
+      "image": "https://picsum.photos/id/286/200",
+      "price": 304,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBMaXRlIDVH",
+      "title": "Lenovo Tablet Lite 5G",
+      "image": "https://picsum.photos/id/273/200",
+      "price": 905,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IE1pbmkgMg",
+      "title": "Apple Tablet Mini 2",
+      "image": "https://picsum.photos/id/137/200",
+      "price": 992,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTWF4IDI",
+      "title": "Apple Phone Max 2",
+      "image": "https://picsum.photos/id/262/200",
+      "price": 474,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0ICBIRA",
+      "title": "BQ Tablet  HD",
+      "image": "https://picsum.photos/id/180/200",
+      "price": 946,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggIDI",
+      "title": "BQ Watch  2",
+      "image": "https://picsum.photos/id/194/200",
+      "price": 192,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBNYXggMlg",
+      "title": "Lenovo Tablet Max 2X",
+      "image": "https://picsum.photos/id/37/200",
+      "price": 56,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgIEhE",
+      "title": "BQ Phone  HD",
+      "image": "https://picsum.photos/id/251/200",
+      "price": 872,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTGl0ZSBIRA",
+      "title": "BQ Sound Lite HD",
+      "image": "https://picsum.photos/id/79/200",
+      "price": 537,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBNYXgg",
+      "title": "Lenovo Tablet Max ",
+      "image": "https://picsum.photos/id/268/200",
+      "price": 398,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTWF4IDI",
+      "title": "Apple Watch Max 2",
+      "image": "https://picsum.photos/id/31/200",
+      "price": 253,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCAg",
+      "title": "Lenovo Tablet  ",
+      "image": "https://picsum.photos/id/187/200",
+      "price": 306,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIE1pbmkgSEQ",
+      "title": "Lenovo Sound Mini HD",
+      "image": "https://picsum.photos/id/30/200",
+      "price": 774,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggUHJvIDVH",
+      "title": "Apple Watch Pro 5G",
+      "image": "https://picsum.photos/id/37/200",
+      "price": 675,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTWluaSBIRA",
+      "title": "BQ Watch Mini HD",
+      "image": "https://picsum.photos/id/85/200",
+      "price": 225,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBQcm8gMlg",
+      "title": "Apple Book Pro 2X",
+      "image": "https://picsum.photos/id/169/200",
+      "price": 5,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBNYXgg",
+      "title": "BQ Book Max ",
+      "image": "https://picsum.photos/id/298/200",
+      "price": 873,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTGl0ZSBIRA",
+      "title": "Apple Watch Lite HD",
+      "image": "https://picsum.photos/id/98/200",
+      "price": 445,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTWluaSA1Rw",
+      "title": "BQ Sound Mini 5G",
+      "image": "https://picsum.photos/id/92/200",
+      "price": 580,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBNYXggMg",
+      "title": "BQ Book Max 2",
+      "image": "https://picsum.photos/id/279/200",
+      "price": 655,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lICAy",
+      "title": "Lenovo Phone  2",
+      "image": "https://picsum.photos/id/134/200",
+      "price": 913,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTGl0ZSAy",
+      "title": "BQ Sound Lite 2",
+      "image": "https://picsum.photos/id/230/200",
+      "price": 434,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTGl0ZSA",
+      "title": "Apple Watch Lite ",
+      "image": "https://picsum.photos/id/298/200",
+      "price": 147,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IE1pbmkgNUc",
+      "title": "Apple Tablet Mini 5G",
+      "image": "https://picsum.photos/id/180/200",
+      "price": 67,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kICBIRA",
+      "title": "Lenovo Sound  HD",
+      "image": "https://picsum.photos/id/96/200",
+      "price": 459,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBNYXggSEQ",
+      "title": "BQ Book Max HD",
+      "image": "https://picsum.photos/id/109/200",
+      "price": 267,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBNaW5pIDJY",
+      "title": "Apple Book Mini 2X",
+      "image": "https://picsum.photos/id/19/200",
+      "price": 236,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBNaW5pIDI",
+      "title": "Lenovo Tablet Mini 2",
+      "image": "https://picsum.photos/id/137/200",
+      "price": 256,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggUHJvIDJY",
+      "title": "BQ Watch Pro 2X",
+      "image": "https://picsum.photos/id/253/200",
+      "price": 25,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0ICAy",
+      "title": "Apple Tablet  2",
+      "image": "https://picsum.photos/id/207/200",
+      "price": 727,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggIDI",
+      "title": "Apple Watch  2",
+      "image": "https://picsum.photos/id/123/200",
+      "price": 159,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lICA",
+      "title": "Lenovo Phone  ",
+      "image": "https://picsum.photos/id/279/200",
+      "price": 139,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBMaXRlIA",
+      "title": "Apple Book Lite ",
+      "image": "https://picsum.photos/id/264/200",
+      "price": 183,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTWF4IDJY",
+      "title": "Apple Sound Max 2X",
+      "image": "https://picsum.photos/id/160/200",
+      "price": 906,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IE1heCA",
+      "title": "BQ Tablet Max ",
+      "image": "https://picsum.photos/id/193/200",
+      "price": 620,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBQcm8gSEQ",
+      "title": "Apple Book Pro HD",
+      "image": "https://picsum.photos/id/72/200",
+      "price": 68,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTGl0ZSAy",
+      "title": "Apple Watch Lite 2",
+      "image": "https://picsum.photos/id/192/200",
+      "price": 24,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBMaXRlIA",
+      "title": "Lenovo Tablet Lite ",
+      "image": "https://picsum.photos/id/81/200",
+      "price": 930,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTGl0ZSA",
+      "title": "Apple Sound Lite ",
+      "image": "https://picsum.photos/id/267/200",
+      "price": 132,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTWluaSAy",
+      "title": "BQ Watch Mini 2",
+      "image": "https://picsum.photos/id/230/200",
+      "price": 771,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIExpdGUgSEQ",
+      "title": "Lenovo Sound Lite HD",
+      "image": "https://picsum.photos/id/122/200",
+      "price": 794,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTWF4IEhE",
+      "title": "BQ Sound Max HD",
+      "image": "https://picsum.photos/id/239/200",
+      "price": 901,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBMaXRlIEhE",
+      "title": "BQ Book Lite HD",
+      "image": "https://picsum.photos/id/246/200",
+      "price": 150,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBNaW5pIDJY",
+      "title": "Lenovo Tablet Mini 2X",
+      "image": "https://picsum.photos/id/298/200",
+      "price": 980,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBQcm8gMlg",
+      "title": "BQ Book Pro 2X",
+      "image": "https://picsum.photos/id/72/200",
+      "price": 393,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIExpdGUgMlg",
+      "title": "Lenovo Sound Lite 2X",
+      "image": "https://picsum.photos/id/66/200",
+      "price": 463,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggUHJvIEhE",
+      "title": "Apple Watch Pro HD",
+      "image": "https://picsum.photos/id/273/200",
+      "price": 431,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IFBybyAy",
+      "title": "BQ Tablet Pro 2",
+      "image": "https://picsum.photos/id/286/200",
+      "price": 999,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTWF4IDJY",
+      "title": "Apple Watch Max 2X",
+      "image": "https://picsum.photos/id/70/200",
+      "price": 624,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgIDVH",
+      "title": "Apple Phone  5G",
+      "image": "https://picsum.photos/id/158/200",
+      "price": 267,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTWluaSA1Rw",
+      "title": "Apple Phone Mini 5G",
+      "image": "https://picsum.photos/id/18/200",
+      "price": 300,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTGl0ZSAyWA",
+      "title": "Apple Watch Lite 2X",
+      "image": "https://picsum.photos/id/125/200",
+      "price": 989,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IFBybyA",
+      "title": "Apple Tablet Pro ",
+      "image": "https://picsum.photos/id/42/200",
+      "price": 311,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBNYXggSEQ",
+      "title": "Apple Book Max HD",
+      "image": "https://picsum.photos/id/218/200",
+      "price": 173,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTGl0ZSAyWA",
+      "title": "Apple Phone Lite 2X",
+      "image": "https://picsum.photos/id/229/200",
+      "price": 198,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IFBybyBIRA",
+      "title": "Apple Tablet Pro HD",
+      "image": "https://picsum.photos/id/122/200",
+      "price": 977,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIFBybyAy",
+      "title": "Lenovo Sound Pro 2",
+      "image": "https://picsum.photos/id/73/200",
+      "price": 246,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayAgNUc",
+      "title": "Apple Book  5G",
+      "image": "https://picsum.photos/id/80/200",
+      "price": 978,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IExpdGUgSEQ",
+      "title": "BQ Tablet Lite HD",
+      "image": "https://picsum.photos/id/181/200",
+      "price": 810,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTWF4IDVH",
+      "title": "Apple Watch Max 5G",
+      "image": "https://picsum.photos/id/228/200",
+      "price": 473,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTWF4IDJY",
+      "title": "BQ Phone Max 2X",
+      "image": "https://picsum.photos/id/77/200",
+      "price": 966,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTGl0ZSA1Rw",
+      "title": "BQ Sound Lite 5G",
+      "image": "https://picsum.photos/id/9/200",
+      "price": 248,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTGl0ZSAy",
+      "title": "Apple Sound Lite 2",
+      "image": "https://picsum.photos/id/0/200",
+      "price": 272,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTGl0ZSBIRA",
+      "title": "BQ Phone Lite HD",
+      "image": "https://picsum.photos/id/225/200",
+      "price": 983,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBNYXggNUc",
+      "title": "Apple Book Max 5G",
+      "image": "https://picsum.photos/id/190/200",
+      "price": 582,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTWF4IA",
+      "title": "Apple Phone Max ",
+      "image": "https://picsum.photos/id/254/200",
+      "price": 233,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggUHJvIDI",
+      "title": "BQ Watch Pro 2",
+      "image": "https://picsum.photos/id/181/200",
+      "price": 113,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTGl0ZSAyWA",
+      "title": "Apple Sound Lite 2X",
+      "image": "https://picsum.photos/id/46/200",
+      "price": 946,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBNaW5pIDI",
+      "title": "Apple Book Mini 2",
+      "image": "https://picsum.photos/id/197/200",
+      "price": 56,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBNaW5pIA",
+      "title": "Apple Book Mini ",
+      "image": "https://picsum.photos/id/165/200",
+      "price": 572,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgUHJvIDVH",
+      "title": "BQ Phone Pro 5G",
+      "image": "https://picsum.photos/id/25/200",
+      "price": 521,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBQcm8gMg",
+      "title": "BQ Book Pro 2",
+      "image": "https://picsum.photos/id/196/200",
+      "price": 276,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayAgMlg",
+      "title": "BQ Book  2X",
+      "image": "https://picsum.photos/id/266/200",
+      "price": 315,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTWF4IA",
+      "title": "BQ Sound Max ",
+      "image": "https://picsum.photos/id/29/200",
+      "price": 156,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTWluaSAyWA",
+      "title": "BQ Sound Mini 2X",
+      "image": "https://picsum.photos/id/291/200",
+      "price": 170,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IE1heCAy",
+      "title": "BQ Tablet Max 2",
+      "image": "https://picsum.photos/id/35/200",
+      "price": 713,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgUHJvIDVH",
+      "title": "BQ Sound Pro 5G",
+      "image": "https://picsum.photos/id/277/200",
+      "price": 155,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBMaXRlIDJY",
+      "title": "BQ Book Lite 2X",
+      "image": "https://picsum.photos/id/216/200",
+      "price": 963,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IFBybyAyWA",
+      "title": "BQ Tablet Pro 2X",
+      "image": "https://picsum.photos/id/156/200",
+      "price": 716,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IExpdGUgMg",
+      "title": "BQ Tablet Lite 2",
+      "image": "https://picsum.photos/id/183/200",
+      "price": 950,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IE1pbmkgSEQ",
+      "title": "Apple Tablet Mini HD",
+      "image": "https://picsum.photos/id/122/200",
+      "price": 980,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgIDJY",
+      "title": "BQ Phone  2X",
+      "image": "https://picsum.photos/id/25/200",
+      "price": 132,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgUHJvIA",
+      "title": "BQ Sound Pro ",
+      "image": "https://picsum.photos/id/177/200",
+      "price": 486,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTGl0ZSAyWA",
+      "title": "BQ Watch Lite 2X",
+      "image": "https://picsum.photos/id/284/200",
+      "price": 131,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgUHJvIDJY",
+      "title": "Apple Phone Pro 2X",
+      "image": "https://picsum.photos/id/263/200",
+      "price": 69,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTWluaSA",
+      "title": "Apple Watch Mini ",
+      "image": "https://picsum.photos/id/133/200",
+      "price": 397,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBMaXRlIDVH",
+      "title": "BQ Book Lite 5G",
+      "image": "https://picsum.photos/id/184/200",
+      "price": 895,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBMaXRlIEhE",
+      "title": "Apple Book Lite HD",
+      "image": "https://picsum.photos/id/259/200",
+      "price": 552,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayAg",
+      "title": "BQ Book  ",
+      "image": "https://picsum.photos/id/16/200",
+      "price": 808,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTWF4IDJY",
+      "title": "BQ Sound Max 2X",
+      "image": "https://picsum.photos/id/292/200",
+      "price": 599,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBMaXRlIEhE",
+      "title": "Lenovo Tablet Lite HD",
+      "image": "https://picsum.photos/id/263/200",
+      "price": 624,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayAgNUc",
+      "title": "BQ Book  5G",
+      "image": "https://picsum.photos/id/138/200",
+      "price": 676,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IExpdGUg",
+      "title": "Apple Tablet Lite ",
+      "image": "https://picsum.photos/id/33/200",
+      "price": 239,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIFBybyBIRA",
+      "title": "Lenovo Sound Pro HD",
+      "image": "https://picsum.photos/id/278/200",
+      "price": 954,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggIA",
+      "title": "Apple Watch  ",
+      "image": "https://picsum.photos/id/276/200",
+      "price": 233,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBNaW5pIDI",
+      "title": "BQ Book Mini 2",
+      "image": "https://picsum.photos/id/267/200",
+      "price": 456,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTWluaSAy",
+      "title": "BQ Phone Mini 2",
+      "image": "https://picsum.photos/id/163/200",
+      "price": 407,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTWluaSA",
+      "title": "BQ Sound Mini ",
+      "image": "https://picsum.photos/id/155/200",
+      "price": 228,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTWluaSAy",
+      "title": "Apple Watch Mini 2",
+      "image": "https://picsum.photos/id/78/200",
+      "price": 520,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTWluaSAy",
+      "title": "Apple Phone Mini 2",
+      "image": "https://picsum.photos/id/213/200",
+      "price": 126,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayAgSEQ",
+      "title": "Apple Book  HD",
+      "image": "https://picsum.photos/id/281/200",
+      "price": 963,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgIA",
+      "title": "BQ Phone  ",
+      "image": "https://picsum.photos/id/299/200",
+      "price": 334,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0ICA",
+      "title": "Apple Tablet  ",
+      "image": "https://picsum.photos/id/97/200",
+      "price": 957,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBNYXggSEQ",
+      "title": "Lenovo Tablet Max HD",
+      "image": "https://picsum.photos/id/228/200",
+      "price": 283,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTWF4IDVH",
+      "title": "BQ Phone Max 5G",
+      "image": "https://picsum.photos/id/72/200",
+      "price": 265,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggIDVH",
+      "title": "BQ Watch  5G",
+      "image": "https://picsum.photos/id/41/200",
+      "price": 680,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IE1heCAyWA",
+      "title": "BQ Tablet Max 2X",
+      "image": "https://picsum.photos/id/20/200",
+      "price": 781,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgIDVH",
+      "title": "Apple Sound  5G",
+      "image": "https://picsum.photos/id/295/200",
+      "price": 587,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgIA",
+      "title": "Apple Phone  ",
+      "image": "https://picsum.photos/id/169/200",
+      "price": 897,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IExpdGUgMg",
+      "title": "Apple Tablet Lite 2",
+      "image": "https://picsum.photos/id/272/200",
+      "price": 864,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IFBybyBIRA",
+      "title": "BQ Tablet Pro HD",
+      "image": "https://picsum.photos/id/193/200",
+      "price": 583,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgV2F0Y2ggTWluaSBIRA",
+      "title": "Apple Watch Mini HD",
+      "image": "https://picsum.photos/id/295/200",
+      "price": 349,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFNvdW5kIE1pbmkgNUc",
+      "title": "Lenovo Sound Mini 5G",
+      "image": "https://picsum.photos/id/9/200",
+      "price": 414,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgIA",
+      "title": "BQ Sound  ",
+      "image": "https://picsum.photos/id/217/200",
+      "price": 535,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgQm9vayBNaW5pIDJY",
+      "title": "BQ Book Mini 2X",
+      "image": "https://picsum.photos/id/63/200",
+      "price": 842,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBMaXRlIDJY",
+      "title": "Lenovo Tablet Lite 2X",
+      "image": "https://picsum.photos/id/109/200",
+      "price": 863,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgUHJvIDI",
+      "title": "Apple Sound Pro 2",
+      "image": "https://picsum.photos/id/5/200",
+      "price": 395,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgIDI",
+      "title": "BQ Sound  2",
+      "image": "https://picsum.photos/id/75/200",
+      "price": 358,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgUHJvIEhE",
+      "title": "Apple Sound Pro HD",
+      "image": "https://picsum.photos/id/142/200",
+      "price": 44,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBNaW5pIEhE",
+      "title": "Lenovo Tablet Mini HD",
+      "image": "https://picsum.photos/id/38/200",
+      "price": 366,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBMaXRlIDI",
+      "title": "Lenovo Tablet Lite 2",
+      "image": "https://picsum.photos/id/40/200",
+      "price": 973,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgIDJY",
+      "title": "BQ Sound  2X",
+      "image": "https://picsum.photos/id/106/200",
+      "price": 269,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgUHJvIEhE",
+      "title": "BQ Sound Pro HD",
+      "image": "https://picsum.photos/id/66/200",
+      "price": 882,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IFBybyA1Rw",
+      "title": "BQ Tablet Pro 5G",
+      "image": "https://picsum.photos/id/196/200",
+      "price": 85,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTWF4IDJY",
+      "title": "BQ Watch Max 2X",
+      "image": "https://picsum.photos/id/218/200",
+      "price": 996,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgUHJvIA",
+      "title": "Apple Sound Pro ",
+      "image": "https://picsum.photos/id/82/200",
+      "price": 554,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTGl0ZSA",
+      "title": "Apple Phone Lite ",
+      "image": "https://picsum.photos/id/67/200",
+      "price": 580,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTWluaSA1Rw",
+      "title": "BQ Watch Mini 5G",
+      "image": "https://picsum.photos/id/142/200",
+      "price": 675,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCAgMlg",
+      "title": "Lenovo Tablet  2X",
+      "image": "https://picsum.photos/id/253/200",
+      "price": 792,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0ICA1Rw",
+      "title": "BQ Tablet  5G",
+      "image": "https://picsum.photos/id/146/200",
+      "price": 111,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggUHJvIEhE",
+      "title": "BQ Watch Pro HD",
+      "image": "https://picsum.photos/id/63/200",
+      "price": 537,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBQcm8gMg",
+      "title": "Lenovo Tablet Pro 2",
+      "image": "https://picsum.photos/id/79/200",
+      "price": 579,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgUGhvbmUgTGl0ZSA1Rw",
+      "title": "Apple Phone Lite 5G",
+      "image": "https://picsum.photos/id/255/200",
+      "price": 451,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggTWF4IEhE",
+      "title": "BQ Watch Max HD",
+      "image": "https://picsum.photos/id/263/200",
+      "price": 167,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTWluaSA",
+      "title": "Apple Sound Mini ",
+      "image": "https://picsum.photos/id/102/200",
+      "price": 159,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCAgMg",
+      "title": "Lenovo Tablet  2",
+      "image": "https://picsum.photos/id/11/200",
+      "price": 979,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgIDVH",
+      "title": "BQ Phone  5G",
+      "image": "https://picsum.photos/id/122/200",
+      "price": 437,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCBQcm8gNUc",
+      "title": "Lenovo Tablet Pro 5G",
+      "image": "https://picsum.photos/id/23/200",
+      "price": 136,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgUHJvIDVH",
+      "title": "Apple Sound Pro 5G",
+      "image": "https://picsum.photos/id/176/200",
+      "price": 918,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgVGFibGV0IFBybyAyWA",
+      "title": "Apple Tablet Pro 2X",
+      "image": "https://picsum.photos/id/42/200",
+      "price": 720,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgVGFibGV0IE1pbmkg",
+      "title": "BQ Tablet Mini ",
+      "image": "https://picsum.photos/id/33/200",
+      "price": 163,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTGl0ZSA1Rw",
+      "title": "BQ Phone Lite 5G",
+      "image": "https://picsum.photos/id/47/200",
+      "price": 156,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgV2F0Y2ggUHJvIDVH",
+      "title": "BQ Watch Pro 5G",
+      "image": "https://picsum.photos/id/90/200",
+      "price": 684,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTWF4IA",
+      "title": "Apple Sound Max ",
+      "image": "https://picsum.photos/id/232/200",
+      "price": 879,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFBob25lICA1Rw",
+      "title": "Lenovo Phone  5G",
+      "image": "https://picsum.photos/id/73/200",
+      "price": 565,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgUGhvbmUgTGl0ZSAy",
+      "title": "BQ Phone Lite 2",
+      "image": "https://picsum.photos/id/210/200",
+      "price": 264,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgIDJY",
+      "title": "Apple Sound  2X",
+      "image": "https://picsum.photos/id/19/200",
+      "price": 714,
+      "formula": "p*1"
+    },
+    {
+      "id": "TGVub3ZvIFRhYmxldCAgSEQ",
+      "title": "Lenovo Tablet  HD",
+      "image": "https://picsum.photos/id/152/200",
+      "price": 274,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgQm9vayBNYXggMg",
+      "title": "Apple Book Max 2",
+      "image": "https://picsum.photos/id/164/200",
+      "price": 673,
+      "formula": "p*1"
+    },
+    {
+      "id": "QXBwbGUgU291bmQgTWF4IDI",
+      "title": "Apple Sound Max 2",
+      "image": "https://picsum.photos/id/70/200",
+      "price": 284,
+      "formula": "p*1"
+    },
+    {
+      "id": "QlEgU291bmQgTGl0ZSA",
+      "title": "BQ Sound Lite ",
+      "image": "https://picsum.photos/id/181/200",
+      "price": 376,
+      "formula": "p*1"
+    }
+  ]
+}
