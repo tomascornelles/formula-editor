@@ -35,7 +35,7 @@
           <div class="pre">
             <img src="${product.image}" alt="${product.title}" class="image">
             <div class="box">
-              <p class="title">${product.title}<strong class="price">${product.price}€</strong></p>
+              <p class="title">${product.title}<strong class="price">${_formatPrice(product.price)}€</strong></p>
             </div>
           </div>
           <div class="formula">
@@ -52,7 +52,7 @@
           <div class="post">
             <img src="${product.image}" alt="${product.title}" class="image">
             <div class="box">
-              <p class="title">${product.title}<strong class="price js-priceFormula">${_priceFormula(product.id)}€</strong></p>
+              <p class="title">${product.title}<strong class="price js-priceFormula">${_formatPrice(_priceFormula(product.id))}€</strong></p>
             </div>
           </div>
         `
@@ -141,6 +141,8 @@
     const formula = product[0].formula.split('p').join(product[0].price)
     return eval(formula)
   }
+
+  const _formatPrice = p => Math.round(p * 100) / 100
 
   const _init = () => {
     _getProducts()
